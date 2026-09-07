@@ -50,10 +50,9 @@
         '<div><h5>On this page</h5><nav>' + footLinks + '</nav></div>' +
         '<div><h5>Placement Cell</h5><nav>' +
           '<a href="#recruit">Recruit with us</a>' +
-          '<a href="mailto:placements@svce.ac.in">placements@svce.ac.in</a>' +
-          '<a href="mailto:hodbt@svce.ac.in">hodbt@svce.ac.in</a>' +
-          '<a href="mailto:bt@svce.ac.in">bt@svce.ac.in</a>' +
+          '<a href="mailto:bioacademy@svce.ac.in">bioacademy@svce.ac.in</a>' +
           '<a href="mailto:ganeshprasathk@svce.ac.in">ganeshprasathk@svce.ac.in</a>' +
+          '<a href="mailto:hodbt@svce.ac.in">hodbt@svce.ac.in</a>' +
         '</nav></div>' +
       '</div>' +
       '<div class="base"><span>© ' + new Date().getFullYear() + ' Department of Biotechnology, SVCE.</span>' +
